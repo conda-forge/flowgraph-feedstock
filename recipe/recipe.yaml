@@ -1,5 +1,5 @@
 context:
-  version: "0.1.9"
+  version: "0.1.10"
 
 package:
   name: flowgraph
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/f/flowgraph/flowgraph-${{ version }}.tar.gz
-  sha256: 81d5dd930cc496f690a2ec997825f579cf85b343f64ed353740b8c76761be687
+  sha256: b925ee08c44f1b43077a21ce27f92fd05228fc6299cab8463b73d6b6559b1f97
 
 build:
   noarch: python
